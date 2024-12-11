@@ -1,5 +1,7 @@
 # Pac-Man
 Pac-Man go brrrr wrumm wum
+compressed_frames müssen noch entpackt werden
+
 ## Grundfunktionen unseres Pac-Man Spiels:
 ### Spielfeld:
 - Wird aus Datei eingelesen.
