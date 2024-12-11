@@ -1,5 +1,5 @@
--Spielfeldgröße kann durch die die Variable "SCALING" in Zeile 401 Skalliert werden
--Es kann ein neues Spielfeld durch verändern der Matrix in der datei "map.json" Initialisiert werden (0 = Weg ohne Münze, 1= Wand, 2 = Weg mit Münze, 3 = große Münze, 4 = Tunnel, 5 = Geisterhaus). Dazu muss eine neue Spielfeld.png bereit gestellt werden, welche gleich zur neuen Matrix ist. 
+- Spielfeldgröße kann durch die die Variable "SCALING" in Zeile 401 Skalliert werden
+- Es kann ein neues Spielfeld durch verändern der Matrix in der datei "map.json" Initialisiert werden (0 = Weg ohne Münze, 1= Wand, 2 = Weg mit Münze, 3 = große Münze, 4 = Tunnel, 5 = Geisterhaus). Dazu muss eine neue Spielfeld.png bereit gestellt werden, welche gleich zur neuen Matrix ist. 
 
 # Pac-Man
 	Pac-Man go brrrr wrumm wum background_video Bilder müssen noch entpackt werden
