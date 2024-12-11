@@ -6,7 +6,7 @@
 
 ## Grundfunktionen unseres Pac-Man Spiels:
 
-###Steuerung:
+### Steuerung:
 -Pac-Man wird durch WASD oder Pfeiltasten gesteuert
 -Im Highscore Menü kommt man durch ESC zurück ins Menü
 -ESC schließt das Spiel, wenn man im Menü oder im Spiel ist
